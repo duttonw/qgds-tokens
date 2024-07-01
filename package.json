@@ -14,7 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0",
-    "style-dictionary": "^3.9.2",
+    "style-dictionary": "^4.0.0",
     "npm-run-all2": "^6.1.2"
   }
 }
